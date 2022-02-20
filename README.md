@@ -5,7 +5,8 @@ This dashboard analyses trends in bank closures in USA between the years 2000 an
 A total of 563 banks were analyzed
 
 ## The Dashboard
-<img width="1184" alt="Screen Shot 2022-02-19 at 20 23 52" src="https://user-images.githubusercontent.com/92747557/154824735-5f7d6850-9563-470d-8e3a-16c0b72c5fb9.png">
+<img width="1003" alt="Screen Shot 2022-02-19 at 20 29 34" src="https://user-images.githubusercontent.com/92747557/154824841-223e244a-241f-4a15-94e1-f09ead279a62.png">
+
 
 Several interesting trends were identified. 
 - Over 95% of branches close at the end of the work week on a Friday. 
