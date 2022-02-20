@@ -4,6 +4,10 @@ This dashboard analyses trends in bank closures in USA between the years 2000 an
 
 A total of 563 banks were analyzed
 
+## Problem Statement
+Brank branches across USA 
+
+
 ## The Dashboard
 <img width="1003" alt="Screen Shot 2022-02-19 at 20 29 34" src="https://user-images.githubusercontent.com/92747557/154824841-223e244a-241f-4a15-94e1-f09ead279a62.png">
 
